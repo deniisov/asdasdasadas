@@ -187,6 +187,8 @@ a, a:hover, a:active, a:focus {
   font-size: 90px;
   color: #fff;
   margin-top: 90px;
+  font-family: "Patrick Hand";
+  cursor: default;
 }
 
 @media (max-width: 490px) {
@@ -383,6 +385,8 @@ a, a:hover, a:active, a:focus {
 .footer__content-title {
   font-size: 48px;
   color: #fff;
+  font-family: "Patrick Hand";
+  cursor: default;
 }
 
 @media (min-width: 769px) {
