@@ -294,7 +294,7 @@ a, a:hover, a:active, a:focus {
   left: 0;
   top: 0;
 
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.3);
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.3s;
@@ -306,7 +306,7 @@ a, a:hover, a:active, a:focus {
 
 .works__block-text {
   position: absolute;
-  bottom: 20px;
+  bottom: 10px;
   left: 30px;
   color: #fff;
   font-size: 20px;
