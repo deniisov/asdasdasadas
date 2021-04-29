@@ -7,6 +7,7 @@ $(document).ready(function () {
 
 new Swiper('.works__slider', {
     pagination: {
+        loop: true,
         el: '.swiper-pagination',
         clickable: true,
     },
