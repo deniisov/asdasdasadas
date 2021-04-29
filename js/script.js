@@ -6,8 +6,8 @@ $(document).ready(function () {
 })
 
 new Swiper('.works__slider', {
+    loop:true,
     pagination: {
-        loop: true,
         el: '.swiper-pagination',
         clickable: true,
     },

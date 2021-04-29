@@ -304,10 +304,10 @@ a, a:hover, a:active, a:focus {
 
 .works__block-text {
   position: absolute;
-  bottom: 30px;
+  bottom: 20px;
   left: 30px;
   color: #fff;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .works__block-img {
