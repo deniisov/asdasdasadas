@@ -211,6 +211,29 @@ a, a:hover, a:active, a:focus {
   padding-bottom: 50px;
 }
 
+@media (max-width: 768px) {
+  .section-title.desktop {
+    display: none;
+  }
+}
+
+.section-title.mobile {
+  display: none;
+  
+}
+
+@media (max-width: 768px) {
+  .section-title.mobile {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: block;
+    
+    
+  }
+}
+
+
+
 .orange-top {
   margin-top: 70px;
 }
